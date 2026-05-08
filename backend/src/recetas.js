@@ -20,6 +20,13 @@ const recetas = [
     tiempo: 30,
     categoria: "desayuno",
   },
+  {
+    id: 4,
+    nombre: "Mondongo",
+    ingredientes: ["Aji", "Pelachi", "clavo", "Carne"],
+    tiempo: 60,
+    categoria: "almuerzo",
+  },
 ];
 
 module.exports = { recetas };
