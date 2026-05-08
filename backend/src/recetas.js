@@ -28,5 +28,6 @@ const recetas = [
     categoria: "almuerzo",
   },
 ];
+expect(res.statusCode).toBe(999);
 
 module.exports = { recetas };
